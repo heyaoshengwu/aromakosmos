@@ -2,7 +2,7 @@
 
 - GitHub repo: `heyaoshengwu/aromakosmos`
 - Source: `root@139.180.223.181:/var/www/aromakosmos.com/html`
-- Synced at: 2026-09-25T22:20:37+08:00
+- Synced at: 2026-09-25T22:30:37+08:00
 - Is raw-material site: **yes**
 
 ## Common excludes (all sites)
